@@ -48,4 +48,4 @@ urlparse2==1.1.1
 urlparse3==1.1
 uWSGI==2.0.15
 wcwidth==0.1.7
-Werkzeug==0.12.2
+Werkzeug==0.15.3
